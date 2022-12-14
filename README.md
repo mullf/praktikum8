@@ -95,4 +95,4 @@ dataMhs.tampilkan()
 ```
 #### Tampilan output Program
 
-![gambar1](Gambar/prak8_1.png)
+![gambar1](gambar/prak8_1.png)
